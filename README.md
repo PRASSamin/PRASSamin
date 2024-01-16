@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PRASSamin
-- 👀 I’m interested in C++
+- 👀 I’m interested in Python
 - 🌱 I’m currently learning Coding
 - 📫 Email:prassamin@gmail.com
 <!---
