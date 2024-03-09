@@ -63,7 +63,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/JLYQnbND9gkYU/giphy.gif?cid=ecf05e476wvg3yt5aco6uhapir470nfctu6ytm4bi9puff13&ep=v1_gifs_related&rid=giphy.gif&ct=g"   autoplay="true"/>
+<img align="right" height="150" src="https://camo.githubusercontent.com/2ad2cc20672554b…56c61746564267269643d67697068792e6769662663743d67"   autoplay="true"/>
 
 ###
 
