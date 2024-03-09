@@ -21,7 +21,7 @@
 
 ###
 
-<h2 align="left">My Skills</h2>
+<h2 align="left">📚 My Skills</h2>
 
 ###
 
@@ -51,7 +51,7 @@
 
 ###
 
-<h2 align="left">About Me</h2>
+<h2 align="left">🙋🏻 About Me</h2>
 
 ###
 
