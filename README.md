@@ -63,7 +63,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/JLYQnbND9gkYU/giphy.gif?cid=ecf05e476wvg3yt5aco6uhapir470nfctu6ytm4bi9puff13&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+<img align="right" height="150" src="https://media4.giphy.com/media/JLYQnbND9gkYU/giphy.gif?cid=ecf05e476wvg3yt5aco6uhapir470nfctu6ytm4bi9puff13&ep=v1_gifs_related&rid=giphy.gif&ct=g"   autoplay="true"/>
 
 ###
 
