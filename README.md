@@ -23,6 +23,6 @@ I'm a web developer fully focused on web and Python development. I specialize in
 <br/>
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=PRASSamin&icon=0&color=8)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=prassamin&abbreviated=true&style=for-the-badge)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
